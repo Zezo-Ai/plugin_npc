@@ -4,11 +4,11 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Cacti\nReport-Msgid-Bugs-To: developers@cacti.net\nPOT-Creation-Date: 2024-06-08 08:54-0400\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: Automatically generated\nLanguage-Team: none\nLanguage: ka\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n"
+msgstr "Project-Id-Version: Cacti\nReport-Msgid-Bugs-To: developers@cacti.net\nPOT-Creation-Date: 2024-06-08 08:54-0400\nPO-Revision-Date: 2025-07-01 15:51+0000\nLast-Translator: Ekaterine papava <papava.e@gtu.ge>\nLanguage-Team: Georgian <https://translate.cacti.net/projects/cacti/npc/ka/>\nLanguage: ka-GE\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 #: controllers/cacti.php:150 setup.php:169 setup.php:237
 msgid "None"
-msgstr ""
+msgstr "არცერთი"
 
 #: controllers/controller.php:417
 #, php-format
@@ -73,7 +73,7 @@ msgstr ""
 
 #: setup.php:265 setup.php:1624
 msgid "NPC"
-msgstr ""
+msgstr "NPC"
 
 #: setup.php:272
 msgid "Status Detail"
@@ -157,7 +157,7 @@ msgstr ""
 
 #: setup.php:1736
 msgid "Service Icons"
-msgstr ""
+msgstr "სერვისის ხატულები"
 
 #: setup.php:1737
 msgid "Enable displaying service icons in the services grid. The icon_image and icon_image_alt parameters of the Nagios service definition are used to set the image. Icons should be 16x16 to get the best look. This setting does not affect the service status icons."
@@ -165,7 +165,7 @@ msgstr ""
 
 #: setup.php:1741
 msgid "Logging"
-msgstr ""
+msgstr "ჟურნალი"
 
 #: setup.php:1745
 msgid "Logging Level"
