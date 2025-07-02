@@ -4,7 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr "Project-Id-Version: Cacti\nReport-Msgid-Bugs-To: developers@cacti.net\nPOT-Creation-Date: 2024-06-08 08:54-0400\nPO-Revision-Date: 2025-07-01 15:51+0000\nLast-Translator: Ekaterine papava <papava.e@gtu.ge>\nLanguage-Team: Georgian <https://translate.cacti.net/projects/cacti/npc/ka/>\nLanguage: ka-GE\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
+msgstr "Project-Id-Version: Cacti\nReport-Msgid-Bugs-To: developers@cacti.net\nPOT-Creation-Date: 2024-06-08 08:54-0400\nPO-Revision-Date: 2025-07-02 21:26+0000\nLast-Translator: Ekaterine papava <papava.e@gtu.ge>\nLanguage-Team: Georgian <https://translate.cacti.net/projects/cacti/npc/ka/>\nLanguage: ka-GE\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\nX-Generator: Weblate 5.11.4\n"
 
 #: controllers/cacti.php:150 setup.php:169 setup.php:237
 msgid "None"
@@ -89,7 +89,7 @@ msgstr ""
 
 #: setup.php:1682
 msgid "General Settings"
-msgstr ""
+msgstr "ზოგადი პარამეტრები"
 
 #: setup.php:1686
 msgid "Remote Commands"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: setup.php:1703
 msgid "Date Format"
-msgstr ""
+msgstr "თარიღის ფორმატი"
 
 #: setup.php:1704
 msgid "Select the format you want for displaying dates."
@@ -125,7 +125,7 @@ msgstr ""
 
 #: setup.php:1710
 msgid "Time Format"
-msgstr ""
+msgstr "დროის ფორმატი"
 
 #: setup.php:1711
 msgid "Select the format you want for displaying times."
@@ -169,7 +169,7 @@ msgstr "ჟურნალი"
 
 #: setup.php:1745
 msgid "Logging Level"
-msgstr ""
+msgstr "ჟურნალის დონე"
 
 #: setup.php:1746
 msgid "The level of detail you want sent to the Cacti log file. WARNING: Leaving in DEBUG will quickly fill the cacti log."
