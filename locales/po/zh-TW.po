@@ -4,20 +4,10 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: developers@cacti.net\n"
-"POT-Creation-Date: 2024-06-08 08:54-0400\n"
-"PO-Revision-Date: 2024-06-08 09:02-0400\n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: zh_TW\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+msgstr "Project-Id-Version: \nReport-Msgid-Bugs-To: developers@cacti.net\nPOT-Creation-Date: 2024-06-08 08:54-0400\nPO-Revision-Date: 2026-01-16 03:18+0000\nLast-Translator: sucharlie <su.charlie@gmail.com>\nLanguage-Team: Chinese (Traditional Han script) <https://translate.cacti.net/projects/cacti/npc/zh_Hant/>\nLanguage: zh-TW\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\nX-Generator: Weblate 5.11.4\n"
 
 #: controllers/cacti.php:150 setup.php:169 setup.php:237
+#, fuzzy
 msgid "None"
 msgstr "無"
 
@@ -99,6 +89,7 @@ msgid "Command Execution"
 msgstr "命令執行"
 
 #: setup.php:1682
+#, fuzzy
 msgid "General Settings"
 msgstr "一般設定"
 
@@ -175,6 +166,7 @@ msgid "Enable displaying service icons in the services grid. The icon_image and 
 msgstr "啟用在服務網格中顯示服務圖標。 Nagios服務定義的icon_image和icon_image_alt參數用於設置圖像。圖標應為16x16，以獲得最佳外觀。此設置不會影響服務狀態圖標。"
 
 #: setup.php:1741
+#, fuzzy
 msgid "Logging"
 msgstr "記錄"
 
